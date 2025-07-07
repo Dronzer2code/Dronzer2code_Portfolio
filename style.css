@@ -229,10 +229,9 @@ span{
         content: "App Developer";
     }
     38%, 70%{
-        content: "Web Developer";
-    }
-    71%, 100%{
         content: "Designer";
+    71%, 100%{
+        content: "Web Developer";
     }
 }
 

@@ -226,10 +226,10 @@ span{
 
 @keyframes words{
     0%, 37%{
-        content: "Web Developer";
+        content: "App Developer";
     }
     38%, 70%{
-        content: "App Developer";
+        content: "Web Developer";
     }
     71%, 100%{
         content: "Designer";
